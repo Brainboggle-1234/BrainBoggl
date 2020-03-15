@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770793841097",
+    "firebase_url": "https://brainboggle3.firebaseio.com",
+    "project_id": "brainboggle3",
+    "storage_bucket": "brainboggle3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770793841097:android:397fa9acd18f3fa6068818",
+        "android_client_info": {
+          "package_name": "com.example.brainboggle3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770793841097-28ahkamlsgtfthaoaev3gpm2qdkfhuof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjngnhhYoe9jXco6KeWICpLw-hkAxAatg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770793841097-28ahkamlsgtfthaoaev3gpm2qdkfhuof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
